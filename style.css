@@ -6,15 +6,19 @@
 }
 
 .section1 {
-    background-color: rgb(15, 63, 105);
+    background-color: rgb(7, 80, 144);
     padding: 100px;
 }
 
 .section2 {
-    background-color: rgb(15, 67, 113);
+    background-color: rgb(7, 81, 146);
     padding: 100px;
 }
 
 .section2-imagem{
     width: 20%;
 } 
+
+.rodape{
+  background-color: black;  
+}
