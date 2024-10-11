@@ -6,11 +6,15 @@
 }
 
 .section1 {
-    background-color: aliceblue;
+    background-color: rgb(15, 63, 105);
     padding: 100px;
 }
 
 .section2 {
-    background-color: aliceblue;
+    background-color: rgb(15, 67, 113);
     padding: 100px;
 }
+
+.section2-imagem{
+    width: 20%;
+} 
